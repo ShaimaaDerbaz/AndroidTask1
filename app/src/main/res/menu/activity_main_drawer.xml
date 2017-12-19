@@ -7,9 +7,9 @@
 
             android:title="About us " />
         <item
-            android:id="@+id/call_us"
+            android:id="@+id/contact_us"
 
-            android:title="call us" />
+            android:title="contact us" />
         <item
             android:id="@+id/password"
 

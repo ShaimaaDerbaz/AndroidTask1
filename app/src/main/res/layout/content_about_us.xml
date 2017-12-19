@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/content_about_us"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:paddingBottom="@dimen/activity_vertical_margin"
+android:paddingLeft="@dimen/activity_horizontal_margin"
+android:paddingRight="@dimen/activity_horizontal_margin"
+android:paddingTop="@dimen/activity_vertical_margin"
+android:orientation="vertical"
+tools:context="com.example.shaimaaderbaz.taskh1.Activities.AboutUsActivity"
+tools:showIn="@layout/app_bar_about_us">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ما هو زاجل ؟ "
+        android:textColor="@color/colorPrimary"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="زاجل هو نظام خاص بتسهيل التواصل بين المدرسة وأولياء الأمور، وهو يحوي في داخله أجزاء من نظم التراسل، وخدمة العملاء، والتصويت، والتصنيف، وأدوات استخراج التقارير التعليمية، وأدوات المساعدة في تقييم الأداء الفني للمدرسين، وأشياء أخرى تمت اضافتها لصالح العملية التعليمية.
+
+نظام زاجل يجمع بين السهولة الشديدة والبساطة في الاستعمال لكل من ولي الأمر ومديري النظام والمعلمين وبين القوة والمرونة في الإمكانيات المختلفة التي تستطيع أن تنشئها المدرسة حسب الحاجة.
+
+جميع المراسلات والصور يرسل بيها تنبيهات على موبايل الأب والأم ويظهر أمام المدرسة من رآهم بالوقت والتاريخ."/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="التطبيقات باسم المدرسة على الهواتف الذكية "
+        android:textColor="@color/colorPrimary"
+        android:textAlignment="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="زاجل هو نظام خاص بتسهيل التواصل بين المدرسة وأولياء الأمور، وهو يحوي في داخله أجزاء من نظم التراسل، وخدمة العملاء، والتصويت، والتصنيف، وأدوات استخراج التقارير التعليمية، وأدوات المساعدة في تقييم الأداء الفني للمدرسين، وأشياء أخرى تمت اضافتها لصالح العملية التعليمية.
+
+نظام زاجل يجمع بين السهولة الشديدة والبساطة في الاستعمال لكل من ولي الأمر ومديري النظام والمعلمين وبين القوة والمرونة في الإمكانيات المختلفة التي تستطيع أن تنشئها المدرسة حسب الحاجة.
+
+جميع المراسلات والصور يرسل بيها تنبيهات على موبايل الأب والأم ويظهر أمام المدرسة من رآهم بالوقت والتاريخ."/>
+
+
+</LinearLayout>
